@@ -12,6 +12,7 @@ I’ve completed 10+ Capture The Flag (CTF) challenges on HackerOne’s Hacker10
 - SQL Injection (SQLi)
 - Authentication flaws
 - Business logic bugs
-
+## Proof of Progress
+![My Hacker101 CTF Progress](Capture.PNG)
 ---
 > 🛡️ I respect CTF rules — no flags or full solutions are shared.
